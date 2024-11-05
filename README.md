@@ -1,2 +1,2 @@
 # Files
-Just some random files sometimes to get pass Discord upload limit
+Just some random files sometimes to get pass Discord upload limit and other limits
